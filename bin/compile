@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "COMPILE RUNNING"
+exit 1
